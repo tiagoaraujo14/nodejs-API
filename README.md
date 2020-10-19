@@ -66,7 +66,7 @@ Na mesma pasta config Crie outro arquivo chamado 'auth.json' dentro desse arquiv
 }
 <br>
 
-:exclamation:instale as dependencias
+instale as dependencias
  ---
  NPM install
  ---
